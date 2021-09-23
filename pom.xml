@@ -11,4 +11,10 @@
     <url>https://github.com/WeisonWei/nicely.git</url>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>bestJavaer</module>
+        <module>CommonUtil</module>
+        <module>fucking-algorithm</module>
+        <module>Java-Tutorial</module>
+    </modules>
 </project>

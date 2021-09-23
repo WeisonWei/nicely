@@ -1,0 +1,12 @@
+[submodule "fucking-algorithm"]
+	path = fucking-algorithm
+	url = https://github.com/WeisonWei/fucking-algorithm.git
+[submodule "Java-Tutorial"]
+	path = Java-Tutorial
+	url = https://github.com/WeisonWei/Java-Tutorial.git
+[submodule "CommonUtil"]
+	path = CommonUtil
+	url = https://github.com/WeisonWei/CommonUtil.git
+[submodule "bestJavaer"]
+	path = bestJavaer
+	url = https://github.com/WeisonWei/bestJavaer.git
